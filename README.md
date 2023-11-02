@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- CUrrently studying Mathematics and Computer Science
+- Currently studying Mathematics and Computer Science
